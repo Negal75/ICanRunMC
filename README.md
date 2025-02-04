@@ -17,7 +17,7 @@ Just make it executable and run it with the terminal using "sudo".
 
 - Cross platform/usage in any distro with MESA.
 - Good performance, better than using Software renders.
-- Make old hardware compatible OpenGL 3.3 OpengGLES 3.1.
+- Make old hardware compatible with OpenGL 3.3 OpengGLES 3.1.
 
 
 ## Optimizations for MC
