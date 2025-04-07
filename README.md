@@ -3,7 +3,7 @@
 A simple script that fixes OpenGL compatibility for older GPUs using MESA Variables. (OpenGL 2.1+)
 
 
-- Minecraft 1.21.4 Running in first gen intel HD in Manjaro.![usage](https://github.com/Negal75/ICanRunMC/blob/main/photo_2025-02-03_21-39-06.jpg?raw=true)
+- Minecraft 1.21.4 Running in first gen intel HD in Manjaro.![usage](https://github.com/Negal75/ICanRunMC/blob/main/preview.jpg?raw=true)
 
 
 ## Installation/Usage
